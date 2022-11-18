@@ -1,0 +1,7 @@
+{
+  "name": "Garden",
+  "description": "Musica para discord",
+  "repository": "https://github.com/",
+  "logo": "",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
